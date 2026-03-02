@@ -1,2 +1,1 @@
-raio = input()
-print(raio)
+mensagem = "Olá Mundo"
